@@ -27,7 +27,8 @@
   },
   "prettier": {
     "singleQuote": false,
-    "endOfLine": "crlf"
+    "endOfLine": "crlf",
+    "linebreak-style": 0
   },
   "browserslist": {
     "production": [
