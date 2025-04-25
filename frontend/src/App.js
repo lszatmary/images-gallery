@@ -8,7 +8,6 @@ import Welcome from "./components/Welcome.js";
 
 const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5050";
 
-
 const App = () => {
   const [word, setWord] = useState("");
   const [images, setImages] = useState([]);
